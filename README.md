@@ -23,11 +23,11 @@ A responsive calculator built using:
 
 ## Live Demo
 
-https://yourusername.github.io/multi-theme-calculator/
+https://pravalit.github.io/Multi---Theme-Calculator/
 
 ## Run Locally
 
-git clone https://github.com/yourusername/multi-theme-calculator.git
+git clone https://github.com/pravalit/multi-theme-calculator.git
 
 Open index.html
 
