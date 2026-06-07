@@ -1,3 +1,4 @@
+Live demo:- https://pravalit.github.io/Multi---Theme-Calculator/
 # Multi Theme Calculator
 
 A responsive calculator built using:
@@ -24,12 +25,6 @@ A responsive calculator built using:
 ## Live Demo
 
 https://pravalit.github.io/Multi---Theme-Calculator/
-
-## Run Locally
-
-git clone https://github.com/pravalit/multi-theme-calculator.git
-
-Open index.html
 
 ## Author
 
